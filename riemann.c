@@ -1,4 +1,3 @@
-
 /*
 @author: Samuel Chamalé
 @description: Program that calculates the integral of a function using the trapezoidal rule.
