@@ -2,6 +2,7 @@
 @author: Samuel Chamalé
 @description: Program that prints a message from each thread in the parallel region.
 @date: 08-11-2024
+@compilation: gcc -fopenmp -o hello_omp.exe hello_omp.c
 */
 
 #include <stdio.h>
